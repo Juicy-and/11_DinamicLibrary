@@ -12,6 +12,7 @@ namespace DinamicLibrary
 	class Leaver
 	{
 	public:
+		DINAMICLIBRARY_API
 		void leave(std::string name);
 	};
 }
